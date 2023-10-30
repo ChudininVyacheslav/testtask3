@@ -1,0 +1,11 @@
+.wrapper {
+  width: 680px;
+  height: 49px;
+  border-bottom: 1px solid #dadada;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+}

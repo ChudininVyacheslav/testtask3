@@ -1,0 +1,21 @@
+.wrapper {
+  width: 1160px;
+  height: 68px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+.img {
+  width: 28px;
+  height: 28px;
+  position: relative;
+  top: 5px;
+}
+
+.button {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 68px;
+  text-decoration: none;
+  color: #595959;
+}

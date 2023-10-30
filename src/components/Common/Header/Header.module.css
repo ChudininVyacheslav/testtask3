@@ -1,0 +1,16 @@
+.wrapper {
+  width: 1140px;
+  height: 56px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 375px) {
+  .header {
+    width: 375px;
+    display: flex;
+    justify-content: space-between;
+  }
+}

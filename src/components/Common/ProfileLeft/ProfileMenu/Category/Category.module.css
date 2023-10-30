@@ -1,0 +1,23 @@
+.wrapper {
+  width: 280px;
+  height: 34px;
+  margin-top: 24px;
+  border-bottom: 1px solid #dadada;
+}
+
+.category {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  color: #9c9c9c;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.category:hover {
+  color: #22a0bc;
+}
+
+.category_active {
+  color: #161616;
+}

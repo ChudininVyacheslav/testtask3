@@ -1,0 +1,41 @@
+.wrapper_user {
+  display: flex;
+  justify-content: space-between;
+  width: 360px;
+  height: 168px;
+  background: #fdfdfd;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 120px;
+  padding: 24px;
+}
+
+.wrap {
+  display: flex;
+  margin-bottom: 42px;
+}
+
+.username {
+  min-width: 140px;
+  margin-bottom: 4px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #22a0bc;
+}
+
+.companyname {
+  width: 180px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #595959;
+}
+
+.city {
+  font-size: 14px;
+  font-weight: 500;
+  color: #9c9c9c;
+}

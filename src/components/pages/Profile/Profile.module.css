@@ -1,0 +1,21 @@
+.profile {
+  width: 1160px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.menu {
+  max-width: 30%;
+  background: #fdfdfd;
+  padding: 40px;
+  margin-right: 40px;
+  border-radius: 20px;
+}
+
+.data {
+  max-width: 70%;
+  width: 760px;
+  background-color: #fdfdfd;
+  border-radius: 20px;
+  padding: 40px;
+}

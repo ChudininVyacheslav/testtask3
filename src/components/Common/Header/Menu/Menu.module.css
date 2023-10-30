@@ -1,0 +1,58 @@
+.menu {
+  width: 169px;
+}
+
+.icons_wrapper {
+  display: inline-block;
+  margin-right: 24px;
+}
+
+.like {
+  width: 24px;
+  height: 24px;
+}
+
+.bell {
+  width: 24px;
+  height: 24px;
+  margin-left: 4px;
+}
+
+.account {
+  display: inline-block;
+  width: 93px;
+}
+
+.photo_icon {
+  width: 20px;
+  height: 20px;
+}
+
+.name {
+  display: inline-block;
+  width: 65px;
+  margin-left: 7px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #595959;
+}
+
+@media (max-width: 375px) {
+  .menu {
+    width: 375px;
+  }
+
+  .bell {
+    display: none;
+  }
+  .like {
+    display: none;
+  }
+  .name {
+    display: none;
+  }
+  .photo_icon {
+    width: 28px;
+    height: 28px;
+  }
+}

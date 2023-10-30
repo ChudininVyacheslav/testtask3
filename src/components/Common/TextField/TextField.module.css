@@ -1,0 +1,21 @@
+.textField {
+  width: 420px;
+  height: 77px;
+  margin-top: 24px;
+}
+
+.input_top {
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.label {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.input_field {
+  height: 42px;
+  border: 2px solid #dadada;
+  border-radius: 50px;
+}

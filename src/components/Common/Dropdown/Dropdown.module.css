@@ -1,0 +1,41 @@
+.link {
+  display: block;
+  width: 184px;
+  height: 38px;
+  padding: 8px 12px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 38px;
+  text-decoration: none;
+  color: #161616;
+}
+
+.link:hover {
+  color: #22a0bc;
+}
+
+.item {
+  width: 184px;
+  height: 38px;
+  padding: 8px 12px 8px 12px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 38px;
+}
+
+.item:hover {
+  color: #22a0bc;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.items {
+  position: absolute;
+  z-index: 10;
+  background: #fdfdfd;
+  box-shadow: 0px 0px 2px 0px #5a5a5a;
+  border-radius: 8px;
+  cursor: pointer;
+}
