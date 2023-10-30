@@ -11,7 +11,7 @@ const Dropdown = ({children, menuItems}) => {
         <Link
           key={item.id}
           className={styles.link}
-          to="/user"
+          to="/testtask3/user"
           state={item.idUser}
         >
           {item.label}

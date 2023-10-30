@@ -53,7 +53,7 @@ const Profile = () => {
             />
           )}
           <Header />
-          <ButtonLink path="/" label="Назад" />
+          <ButtonLink path="/testtask3" label="Назад" />
           <div className={styles.profile}>
             <div className={styles.menu}>
               <ProfileLeft />

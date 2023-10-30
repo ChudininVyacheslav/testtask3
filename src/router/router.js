@@ -4,11 +4,11 @@ import App from "./../App";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/testtask3",
     element: <App />,
   },
   {
-    path: "/user",
+    path: "/testtask3/user",
     element: <Profile />,
   },
 ]);
